@@ -1,0 +1,6 @@
+@bsiteTest.Server_HostAddress = http://localhost:5076
+
+GET {{bsiteTest.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
